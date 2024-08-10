@@ -17,7 +17,7 @@ env:
   DOCKERFILE: #"Dockerfile Path"
   KUBERNETES_CLUSTER: #"kubernetes name"
 
-name: admin-panel
+name: kubernetes-deployment
 jobs:
   build: 
     name: build image
